@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Malfwa
 
 - 🎓 Currently studying at 42 Paris — deep diving into systems programming.
-- ⚙️ Passionate about embedded systems, low-level optimization, and R&D.
-- 🛠️ Working with: C, Rust, Linux, Docker, Git
+- ⚙️ Passionate about embedded systems, low-level optimization and R&D.
+- 🛠️ Working with: C, C++, Rust, Linux, Docker, Git
 - 🌱 Currently exploring: Linux kernel internals & systems architecture
 
 ---
@@ -27,29 +27,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Most Used Languages
 
-![Malfwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malfwa&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malfwa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malfwa&layout=pie&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
 
 - 💬 Open to collaboration on low-level, performance-focused projects
-
-
-<!--
-**Malfwat/Malfwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
