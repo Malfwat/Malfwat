@@ -1,8 +1,20 @@
 # 👋 Hi, I’m Malfwa
-- 🎓 Currently at 42 Paris, learning systems programming.
-- ⚙️ Passionate about embedded systems, low-level performance and R&D.
-- 🛠️ Tools: C, Rust, Linux, Docker, Git
-- 🌱 Learning: Linux kernel dev, systems architecture
+
+- 🎓 Currently studying at 42 Paris — deep diving into systems programming.
+- ⚙️ Passionate about embedded systems, low-level optimization, and R&D.
+- 🛠️ Working with: C, Rust, Linux, Docker, Git
+- 🌱 Currently exploring: Linux kernel internals & systems architecture
+
+---
+
+## 📌 My Projects
+
+- [**LibASM**](https://github.com/Malfwat/LibASM) - A personal assembly library to master low-level programming in x86_64.
+- [**Makefile_maker**](https://github.com/Malfwat/Makefile_maker) - A tool to automate Makefile generation.
+- [**Minishell**](https://github.com/Malfwat/Minishell) - A custom shell implementation, inspired by the Unix shell.
+- [**Philosophers**](https://github.com/Malfwat/Philosophers) - A multithreading project that simulates the "Dining Philosophers" problem.
+
+---
 
 ## 🧰 Technologies & Tools
 
@@ -13,11 +25,19 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![Malfwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malfwa&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malfwa&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 💬 Open to collaboration on low-level, performance-focused projects
+
 
 <!--
 **Malfwat/Malfwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
