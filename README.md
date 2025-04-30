@@ -27,12 +27,6 @@
 
 ---
 
-## 📊 My Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malfwa&layout=pie&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 
 - 💬 Open to collaboration on low-level, performance-focused projects
