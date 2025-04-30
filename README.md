@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I’m Malfwa
+- 🎓 Currently at 42 Paris, learning systems programming.
+- ⚙️ Passionate about embedded systems, low-level performance and R&D.
+- 🛠️ Tools: C, Rust, Linux, Docker, Git
+- 🌱 Learning: Linux kernel dev, systems architecture
+
 
 <!--
 **Malfwat/Malfwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
