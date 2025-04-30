@@ -4,6 +4,13 @@
 - 🛠️ Tools: C, Rust, Linux, Docker, Git
 - 🌱 Learning: Linux kernel dev, systems architecture
 
+## 🧰 Technologies & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 <!--
 **Malfwat/Malfwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
