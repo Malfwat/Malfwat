@@ -13,6 +13,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+
+## 📊 GitHub Stats
+
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+
 <!--
 **Malfwat/Malfwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
